@@ -1,0 +1,14 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  background-image: url("bluemountains.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
